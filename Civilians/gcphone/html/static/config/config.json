@@ -26,7 +26,7 @@
 
   "useWebRTCVocal": true,
   "RTCConfig": {
-    "iceServers": [{
+    "iceServers": [PML-4QKR-R6ZN-BQ8P-UM6W{
       "urls": ["turn:51.38.69.127:3478"],
       "username": "civil",
       "credential": "34err23wewer23"
